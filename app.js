@@ -57,6 +57,9 @@ function sortearAmigo(){
 
         document.getElementById("resultado").innerHTML = `El ganador es: ${ganador}`;
 
-    }
 
+    }
+    amigos = [];
+
+    return;
 }
