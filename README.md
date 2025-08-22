@@ -30,7 +30,7 @@ Al presionar el botón **"Sortear amigo"**, el sistema seleccionará un nombre a
 5. Cuando tengas la lista completa, haz clic en **"Sortear amigo"** para elegir un ganador al azar.  
 
 ⚠️ **Nota importante**:  
-- Una vez realizado el sorteo, si deseas empezar de nuevo, **recarga la página** para limpiar la lista y volver a cargar nuevos nombres.  
+- Una vez realizado el sorteo, si deseas empezar de nuevo, puedes agregar los nombres en `Añadir` y sortear de vuelta.  
 
 ---
 
