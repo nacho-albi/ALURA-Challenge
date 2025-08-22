@@ -5,12 +5,7 @@ let amigos = [];
 
 
 
-function asignarTexto(elemento, texto){
-    let elementoHTML = document.querySelector(elemento);
-    elementoHTML.innerHTML = texto;
-    return;
 
-}
 function limpiarCampo(elemntoID){
     document.querySelector(elemntoID).value = "";
 }
